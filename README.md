@@ -1,5 +1,6 @@
 # NSF-COA
-The code is referred [here](https://github.com/timothydmorton/nsf-coa/blob/main/coa.ipynb). It's used for populating [coa-tepmlate.xlsx](https://www.nsf.gov/bfa/dias/policy/coa/coa_template.xlsx) file.
+The code is referred [here](https://github.com/timothydmorton/nsf-coa/blob/main/coa.ipynb). It's used for populating table-4 in [coa-tepmlate.xlsx](https://www.nsf.gov/bfa/dias/policy/coa/coa_template.xlsx) file.   
+Feel free to modify the code to populate other tables. 
 
 # Install packages
 Before running the code, we need to install some packages.
