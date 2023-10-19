@@ -6,7 +6,7 @@ Feel free to modify the code to populate other tables.
 Before running the code, we need to install some packages.
 1. Install ads from github
     ```
-    https://github.com/andycasey/ads.git
+    git clone https://github.com/andycasey/ads.git
     cd ads
     pip install .
     ```
